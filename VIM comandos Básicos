@@ -1,0 +1,11 @@
+Comandos do VIM 
+Na dúvida sempre apertar a tecla ESC para sair do modo de Inserção 	
+Shift + :  Insert
+Salvar - w
+Salvar e sair - wq 
+Sair - q
+Forçar Sair sem salvar - q!
+Sair e salvar - x
+Shift + : set number - habilita os números de linhas indexada do lado esquerdo 
+dd com o cursor selecionado deleta toda a linha
+u restaura toda a linha apagada anteriormente 
